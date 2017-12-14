@@ -9,9 +9,9 @@ This site is solely for learning purpose (and also my profile page at the moment
 ###Used HTML tag list
 
 > basic html elements/tag that includes:
-use of basic <h1><h2><p> tags ||
-<div> with its class, alt, src attribute ||
-<img> src. || <link> font, css and use of hrefs || redirection to external sites ||
+use of basic  h1, h2, p, a tags ||
+div with its class, alt, src attribute ||
+img src. || link font, css and use of hrefs || redirection to external sites ||
 
 ###Used CSS tag list
 > basic and several advanced css use of properties:
